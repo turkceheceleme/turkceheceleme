@@ -1,3 +1,5 @@
+TOHS uygulaması Visual Studio 2022 ile C# programlama diliyle kodlanmıştır.
+
 TOHS (Türkçe Otomatik Heceleme Sistemi) : Türkçe dokümanların hecelenmesini gerçekleştiren bir uygulamadır. 
 
 Syllabify : Türkçe metinlerin hecelere ayrılmasını sağlar. Sol taraftaki metin kutusunda girilen metinler hecelenerek sağ taraftaki metin kutusunda hecelenmiş olarak gösterilir.
