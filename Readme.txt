@@ -1,4 +1,4 @@
-TOHS uygulaması Visual Studio 2022 ile C# programlama diliyle kodlanmıştır.
+TOHS uygulaması Visual Studio 2022'de  C# programlama diliyle kodlanmıştır.
 
 TOHS (Türkçe Otomatik Heceleme Sistemi) : Türkçe dokümanların hecelenmesini gerçekleştiren bir uygulamadır. 
 
