@@ -1,38 +1,38 @@
-TOHS uygulaması Visual Studio 2022'de  C# programlama diliyle kodlanmıştır.
+KT-THA uygulaması Visual Studio 2022 ile C# programlama diliyle kodlanmıştır.
 
-TOHS (Türkçe Otomatik Heceleme Sistemi) : Türkçe dokümanların hecelenmesini gerçekleştiren bir uygulamadır. 
+KT-THA (Kural Tabanlı Türkçe Heceleme Algoritması) : Türkçe metinlerin hecelenmesini gerçekleştiren bir uygulamadır. 
 
-Syllabify : Türkçe metinlerin hecelere ayrılmasını sağlar. Sol taraftaki metin kutusunda girilen metinler hecelenerek sağ taraftaki metin kutusunda hecelenmiş olarak gösterilir.
+Hecele : Türkçe metinlerin hecelere ayrılmasını sağlar. Sol taraftaki metin kutusunda girilen metinler hecelenerek sağ taraftaki metin kutusunda hecelenmiş olarak gösterilir.
 
-Open: Türkçe metin dosyası seçilir ve bu metin sol taraftaki metin kutusunda gösterilir. Sonra, "Syllabify" butonuna basılarak hecelenebilir.
+Aç: Türkçe metin dosyası seçilir ve bu metin sol taraftaki metin kutusunda gösterilir. Sonra, "Hecele" butonuna basılarak hecelenebilir.
 
-Clear: Metin kutusu silinir.
+Temizle: Metin kutusu silinir.
 
-Save: Hecelere ayrılmış metin kutusundaki metin kaydedilir.
+Kaydet: Hecelere ayrılmış metin kutusundaki metin kaydedilir.
 
-Modes: Heceleme modlarını ifade eder.
+Mod: Heceleme modlarını ifade eder.
 
-Modes - Normal: Sözcükler tire(-) işareti ile hecelere ayrılmış olarak gösterilir.
+Mod - Normal: Sözcükler tire(-) işareti ile hecelere ayrılmış olarak gösterilir.
 
-Modes - Lines: Her satırda bir sözcük olacak şekilde hecelere ayrılır.
+Mod - Satırlar: Her satırda bir sözcük olacak şekilde hecelere ayrılır.
 
-Modes - LinesNo: Her satırda satır numarası olacak şekilde hecelere ayrılır.
+Mod - SatırVeNo: Her satırda satır numarası olacak şekilde hecelere ayrılır.
 
-Modes - WordS: Her satırda satır numarası, sözcük ve hecelenmiş sözcük olacak şekilde görünür.
+Mod - Sözcükler: Her satırda satır numarası, sözcük ve hecelenmiş sözcük olacak şekilde görünür.
 
-Assignments: Bu algoritmadaki toplam atama sayısı.
+Atama Sayısı: Bu algoritmadaki toplam atama sayısı.
 
-Comparisons: Bu algoritmadaki toplam karşılaştırma sayısı.
+Karşılaştırma Sayısı: Bu algoritmadaki toplam karşılaştırma sayısı.
 
-Arithmetic Operations: Bu algoritmadaki toplam aritmetik işlemler sayısı.
+Aritmetik İşlem Sayısı: Bu algoritmadaki toplam aritmetik işlemler sayısı.
 
-Logical Operations: Bu algoritmadaki toplam mantıksal işlemler sayısı.
+Mantıksal İşlem Sayısı : Bu algoritmadaki toplam mantıksal işlemler sayısı.
 
-Elapsed Time (Seconds): Hecelemenin kaç saniyede yapıldığını ifade eder.
+Hesaplama Zamanı ( Saniye ): Hecelemenin kaç saniyede yapıldığını ifade eder.
 
-Word: Metindeki toplam sözcük sayısı.
+Sözcük: Metindeki toplam sözcük sayısı.
 
-Syllable: Metindeki toplam hece sayısı.
+Hece: Metindeki toplam hece sayısı.
 
 WS: Bir saniyede ortalama kaç sözcük hecelendiğini gösterir.
 
